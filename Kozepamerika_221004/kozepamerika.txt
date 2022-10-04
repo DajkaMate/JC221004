@@ -1,0 +1,21 @@
+Antigua;442;78000
+Bahama-szigetek;13935;226
+Barbados;431;246000
+Belize;22965;160000
+Costa Rica;50700;2600000
+Dominikai Közösség;751;74000
+Dominikai Köztársaság;48734;6100000
+Grenada;344;113000
+Guatemala;108889;8400000
+Haiti;27750;5200000
+Honduras;112088;4400000
+Jamaica;10991;2300000
+Kuba;110801;10100000
+Mexikó;1972547;78500000
+Nicaragua;130000;3300000
+Panama;77082;2200000
+Saint Christopher és Nevis;262;43300
+Saint Lucia;616;134000
+Saint Vincent;389;128000
+Salvador;21041;4800000
+Trinidad és Tobago;5128;1200000
